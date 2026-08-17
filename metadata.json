@@ -1,0 +1,6 @@
+{
+  "name": "2D ဒိုင် ရှင်းတမ်း",
+  "description": "2D ဒိုင် အလျော်အစား၊ စာသား Auto Parse (အပူး၊ အခွေ၊ နက္ခတ်၊ အပတ်၊ R)၊ ထိုးကြေး Limit နှင့် Image/Voice to Text စနစ်",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
